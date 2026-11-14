@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="整理個人料理食譜的公開網站。">
+    <title>料理誌｜料理食譜整理</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="page-shell header-inner">
+        <a class="brand" href="index.html" aria-label="料理誌首頁">
+          <span class="brand-mark" aria-hidden="true">味</span>
+          <span>
+            <strong>料理誌</strong>
+            <small>Recipe journal</small>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="主要導覽">
+          <a class="is-current" href="index.html">所有料理</a>
+          <a href="categories.html">分類瀏覽</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero page-shell">
+        <div class="hero-copy">
+          <p class="eyebrow">MY RECIPE ARCHIVE</p>
+          <h1>把每一道<br><em>好味道</em> 好好留下。</h1>
+          <p class="hero-intro">一種料理，一篇故事。整理你親自提供的食譜，讓喜歡的味道隨時都能被找回來。</p>
+        </div>
+        <div class="hero-stamp" aria-hidden="true">
+          <span>家常<br>食光</span>
+          <small>EST. 2026</small>
+        </div>
+      </section>
+
+      <section class="toolbar-section page-shell" aria-labelledby="recipe-list-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">THE COLLECTION</p>
+            <h2 id="recipe-list-title">料理收藏</h2>
+          </div>
+          <p id="recipe-count" class="result-count" aria-live="polite"></p>
+        </div>
+
+        <div class="toolbar">
+          <label class="search-field">
+            <span class="sr-only">搜尋料理</span>
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="recipe-search" type="search" placeholder="搜尋料理名稱或關鍵字" autocomplete="off">
+          </label>
+          <label class="select-field">
+            <span class="sr-only">依分類篩選</span>
+            <select id="category-filter">
+              <option value="">所有分類</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="recipe-list" class="recipe-grid" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell footer-inner">
+        <p><strong>料理誌</strong> · 只收錄你親自分享的味道。</p>
+      </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

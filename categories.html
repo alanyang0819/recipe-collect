@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="依分類瀏覽料理食譜。">
+    <title>分類瀏覽｜料理誌</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="page-shell header-inner">
+        <a class="brand" href="index.html" aria-label="料理誌首頁">
+          <span class="brand-mark" aria-hidden="true">味</span>
+          <span>
+            <strong>料理誌</strong>
+            <small>Recipe journal</small>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="主要導覽">
+          <a href="index.html">所有料理</a>
+          <a class="is-current" href="categories.html">分類瀏覽</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-shell page-content">
+      <div class="page-title">
+        <p class="eyebrow">BROWSE BY MOOD</p>
+        <h1>分類瀏覽</h1>
+        <p>依照料理分類，慢慢找到今天想做的那一道。</p>
+      </div>
+      <section id="category-list" class="category-grid" aria-label="料理分類" aria-live="polite"></section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell footer-inner">
+        <p><strong>料理誌</strong> · 只收錄你親自分享的味道。</p>
+        <p>原生 HTML · CSS · JavaScript</p>
+      </div>
+    </footer>
+
+    <script src="js/categories.js"></script>
+  </body>
+</html>

@@ -1,0 +1,318 @@
+[
+  {
+    "slug": "gong-bao-ji-ding",
+    "name": "宮保雞丁",
+    "category": "中式料理",
+    "tags": ["雞肉", "下飯", "辣"],
+    "image": "images/gong-bao-ji-ding.png",
+    "description": "雞肉搭配花生與宮保醬汁炒製，鹹香微辣。",
+    "servings": "2人份",
+    "prepTime": "15分鐘",
+    "cookTime": "10分鐘",
+    "ingredients": [
+      { "name": "雞胸肉", "amount": "250克", "note": "切丁" },
+      { "name": "花生", "amount": "40克", "note": "熟花生" },
+      { "name": "乾辣椒", "amount": "6根", "note": "可依喜好調整" },
+      { "name": "青蔥", "amount": "2根", "note": "切段" },
+      { "name": "蒜頭", "amount": "2瓣", "note": "切末" },
+      { "name": "醬油", "amount": "1大匙", "note": "" },
+      { "name": "米酒", "amount": "1大匙", "note": "" },
+      { "name": "烏醋", "amount": "1大匙", "note": "" },
+      { "name": "糖", "amount": "1茶匙", "note": "" }
+    ],
+    "steps": [
+      "雞肉加入少許醬油與米酒抓醃約10分鐘。",
+      "將醬油、米酒、烏醋與糖混合成調味醬汁。",
+      "熱鍋加油，放入雞丁炒至表面變色後盛起。",
+      "用原鍋炒香蒜末與乾辣椒，放回雞丁並加入醬汁拌炒至熟。",
+      "加入花生與蔥段快速拌炒即可盛盤。"
+    ],
+    "notes": ["乾辣椒可依喜好增減；花生最後加入，可保留酥脆口感。"]
+  },
+  {
+    "slug": "tomato-scrambled-eggs",
+    "name": "番茄炒蛋",
+    "category": "家常料理",
+    "tags": ["雞蛋", "番茄", "快速料理"],
+    "image": "images/tomato-scrambled-eggs.png",
+    "description": "酸甜番茄搭配滑嫩炒蛋，是簡單又下飯的家常菜。",
+    "servings": "2人份",
+    "prepTime": "5分鐘",
+    "cookTime": "8分鐘",
+    "ingredients": [
+      { "name": "番茄", "amount": "2顆", "note": "切塊" },
+      { "name": "雞蛋", "amount": "3顆", "note": "打散" },
+      { "name": "青蔥", "amount": "1根", "note": "切蔥花" },
+      { "name": "鹽", "amount": "少許", "note": "" },
+      { "name": "糖", "amount": "1茶匙", "note": "依番茄酸度調整" },
+      { "name": "食用油", "amount": "適量", "note": "" }
+    ],
+    "steps": [
+      "雞蛋打散，加入少許鹽。",
+      "熱鍋加油，倒入蛋液炒至約八分熟後盛起。",
+      "原鍋加入番茄，炒至變軟並出汁。",
+      "加入糖和炒蛋，輕輕拌炒均勻。",
+      "撒上蔥花即可盛盤。"
+    ],
+    "notes": ["想要湯汁多一點，可在炒番茄時加入少量水。"]
+  },
+  {
+    "slug": "garlic-stir-fried-broccoli",
+    "name": "蒜炒花椰菜",
+    "category": "家常料理",
+    "tags": ["蔬菜", "蒜香", "素食"],
+    "image": "images/garlic-stir-fried-broccoli.png",
+    "description": "以蒜頭簡單提味，保留花椰菜清脆口感的家常蔬菜料理。",
+    "servings": "2人份",
+    "prepTime": "10分鐘",
+    "cookTime": "6分鐘",
+    "ingredients": [
+      { "name": "花椰菜", "amount": "300克", "note": "切小朵" },
+      { "name": "蒜頭", "amount": "3瓣", "note": "切末" },
+      { "name": "鹽", "amount": "少許", "note": "" },
+      { "name": "食用油", "amount": "1大匙", "note": "" },
+      { "name": "水", "amount": "2大匙", "note": "炒製時使用" }
+    ],
+    "steps": [
+      "花椰菜洗淨切小朵，蒜頭切末。",
+      "熱鍋加油，放入蒜末炒出香氣。",
+      "加入花椰菜與水，翻炒後蓋鍋燜約2至3分鐘。",
+      "打開鍋蓋，加入鹽調味並炒至熟透即可。"
+    ],
+    "notes": ["花椰菜燜煮時間可依喜好的口感調整。"]
+  },
+  {
+    "slug": "san-bei-ji",
+    "name": "三杯雞",
+    "category": "台式料理",
+    "tags": ["雞肉", "九層塔", "下飯"],
+    "image": "images/san-bei-ji.png",
+    "description": "以麻油、醬油和米酒調味，加入薑片與九層塔炒煮的經典台菜。",
+    "servings": "2人份",
+    "prepTime": "15分鐘",
+    "cookTime": "25分鐘",
+    "ingredients": [
+      { "name": "雞腿肉", "amount": "500克", "note": "切塊" },
+      { "name": "薑", "amount": "30克", "note": "切片" },
+      { "name": "蒜頭", "amount": "6瓣", "note": "去皮" },
+      { "name": "九層塔", "amount": "1把", "note": "摘取葉片" },
+      { "name": "麻油", "amount": "2大匙", "note": "" },
+      { "name": "米酒", "amount": "3大匙", "note": "" },
+      { "name": "醬油", "amount": "3大匙", "note": "" },
+      { "name": "冰糖", "amount": "1大匙", "note": "" }
+    ],
+    "steps": [
+      "雞腿肉洗淨並擦乾，切成適口大小。",
+      "鍋中加入麻油，以小火煸香薑片和蒜頭。",
+      "加入雞肉，煎炒至表面上色。",
+      "加入米酒、醬油和冰糖，煮滾後轉小火燜煮約15分鐘。",
+      "開蓋收至醬汁濃稠，加入九層塔拌炒至香氣釋出即可。"
+    ],
+    "notes": ["麻油以小火加熱，避免過度加熱產生苦味。"]
+  },
+  {
+    "slug": "lu-rou-fan",
+    "name": "滷肉飯",
+    "category": "台式料理",
+    "tags": ["豬肉", "米飯", "滷味"],
+    "image": "images/lu-rou-fan.png",
+    "description": "將豬肉與紅蔥頭慢慢滷煮，淋在熱飯上，是經典台灣家常料理。",
+    "servings": "4人份",
+    "prepTime": "15分鐘",
+    "cookTime": "60分鐘",
+    "ingredients": [
+      { "name": "豬五花肉", "amount": "500克", "note": "切小丁" },
+      { "name": "紅蔥頭", "amount": "6顆", "note": "切片" },
+      { "name": "蒜頭", "amount": "3瓣", "note": "切末" },
+      { "name": "醬油", "amount": "4大匙", "note": "" },
+      { "name": "米酒", "amount": "2大匙", "note": "" },
+      { "name": "冰糖", "amount": "1大匙", "note": "" },
+      { "name": "五香粉", "amount": "1/4茶匙", "note": "可省略" },
+      { "name": "水", "amount": "500毫升", "note": "" },
+      { "name": "白飯", "amount": "4碗", "note": "盛盤用" }
+    ],
+    "steps": [
+      "鍋中放少許油，將紅蔥頭炒至金黃後盛起。",
+      "放入豬五花肉丁煸炒至出油並略微上色。",
+      "加入蒜末、醬油、米酒、冰糖和五香粉炒勻。",
+      "倒入水並加入炒好的紅蔥頭，煮滾後轉小火。",
+      "蓋鍋燉煮約45至60分鐘，至肉丁軟嫩、醬汁入味。",
+      "將滷肉和醬汁淋在白飯上即可享用。"
+    ],
+    "notes": ["可依喜好加入滷蛋或燙青菜一起搭配。"]
+  },
+  {
+    "slug": "mapo-tofu",
+    "name": "麻婆豆腐",
+    "category": "中式料理",
+    "tags": ["豆腐", "豬肉", "辣"],
+    "image": "images/mapo-tofu.png",
+    "description": "豆腐與絞肉搭配豆瓣醬燒煮，鹹香帶辣，適合搭配白飯。",
+    "servings": "3人份",
+    "prepTime": "10分鐘",
+    "cookTime": "15分鐘",
+    "ingredients": [
+      { "name": "嫩豆腐", "amount": "1盒", "note": "切成方塊" },
+      { "name": "豬絞肉", "amount": "150克", "note": "" },
+      { "name": "蒜頭", "amount": "2瓣", "note": "切末" },
+      { "name": "薑", "amount": "1小塊", "note": "切末" },
+      { "name": "辣豆瓣醬", "amount": "1大匙", "note": "依口味調整" },
+      { "name": "醬油", "amount": "1大匙", "note": "" },
+      { "name": "水", "amount": "200毫升", "note": "" },
+      { "name": "太白粉", "amount": "1茶匙", "note": "加少量水調勻" },
+      { "name": "青蔥", "amount": "1根", "note": "切蔥花" }
+    ],
+    "steps": [
+      "鍋中放少許油，炒香薑末和蒜末。",
+      "加入豬絞肉炒散，炒至變色。",
+      "加入辣豆瓣醬和醬油拌炒出香氣。",
+      "倒入水並加入豆腐，小火煮約5分鐘。",
+      "淋入太白粉水輕輕攪拌，煮至醬汁濃稠。",
+      "撒上蔥花即可盛盤。"
+    ],
+    "notes": ["豆腐容易破碎，拌煮時可以輕推鍋子，減少直接翻炒。"]
+  },
+  {
+    "slug": "japanese-curry-rice",
+    "name": "日式咖哩飯",
+    "category": "日式料理",
+    "tags": ["咖哩", "雞肉", "米飯"],
+    "image": "images/japanese-curry-rice.png",
+    "description": "雞肉、馬鈴薯和紅蘿蔔燉煮後加入咖哩塊，口味溫和濃郁。",
+    "servings": "4人份",
+    "prepTime": "15分鐘",
+    "cookTime": "35分鐘",
+    "ingredients": [
+      { "name": "雞腿肉", "amount": "300克", "note": "切塊" },
+      { "name": "馬鈴薯", "amount": "2顆", "note": "去皮切塊" },
+      { "name": "紅蘿蔔", "amount": "1根", "note": "切塊" },
+      { "name": "洋蔥", "amount": "1顆", "note": "切絲" },
+      { "name": "日式咖哩塊", "amount": "4小塊", "note": "依產品包裝調整" },
+      { "name": "水", "amount": "700毫升", "note": "" },
+      { "name": "白飯", "amount": "4碗", "note": "盛盤用" },
+      { "name": "食用油", "amount": "1大匙", "note": "" }
+    ],
+    "steps": [
+      "雞肉切塊，馬鈴薯和紅蘿蔔去皮切塊，洋蔥切絲。",
+      "鍋中加入食用油，炒香洋蔥。",
+      "加入雞肉炒至表面變色，再放入馬鈴薯和紅蘿蔔拌炒。",
+      "倒入水，煮滾後撈除浮沫，轉小火燉煮約20分鐘。",
+      "確認食材軟熟後關火，加入咖哩塊並攪拌至融化。",
+      "再次以小火煮至醬汁濃稠，淋在白飯上即可。"
+    ],
+    "notes": ["咖哩塊的鹹度和辣度依品牌不同，可先從較少的量開始加入。"]
+  },
+  {
+    "slug": "chicken-fried-rice",
+    "name": "雞肉炒飯",
+    "category": "中式料理",
+    "tags": ["雞肉", "米飯", "快速料理"],
+    "image": "images/chicken-fried-rice.png",
+    "description": "以隔夜飯搭配雞肉、雞蛋和蔬菜快速炒製的簡單主食。",
+    "servings": "2人份",
+    "prepTime": "10分鐘",
+    "cookTime": "10分鐘",
+    "ingredients": [
+      { "name": "白飯", "amount": "2碗", "note": "冷藏隔夜飯較容易炒散" },
+      { "name": "雞胸肉", "amount": "150克", "note": "切小丁" },
+      { "name": "雞蛋", "amount": "2顆", "note": "打散" },
+      { "name": "冷凍蔬菜", "amount": "80克", "note": "退冰" },
+      { "name": "青蔥", "amount": "1根", "note": "切蔥花" },
+      { "name": "醬油", "amount": "1大匙", "note": "" },
+      { "name": "食用油", "amount": "適量", "note": "" },
+      { "name": "鹽", "amount": "少許", "note": "" }
+    ],
+    "steps": [
+      "雞胸肉切丁，雞蛋打散，白飯先用飯匙撥鬆。",
+      "熱鍋加油，倒入蛋液炒至半熟後盛起。",
+      "加入雞肉丁炒至熟透，再加入冷凍蔬菜拌炒。",
+      "加入白飯炒散，淋上醬油並調整鹹度。",
+      "放回雞蛋，加入蔥花拌勻即可。"
+    ],
+    "notes": ["炒飯時可用中大火快速翻炒，避免白飯變得濕黏。"]
+  },
+  {
+    "slug": "miso-salmon",
+    "name": "味噌鮭魚",
+    "category": "日式料理",
+    "tags": ["魚肉", "鮭魚", "烤箱料理"],
+    "image": "images/miso-salmon.png",
+    "description": "鮭魚以味噌、味醂和少許糖醃製後烘烤，味道甘鹹濃郁。",
+    "servings": "2人份",
+    "prepTime": "35分鐘",
+    "cookTime": "15分鐘",
+    "ingredients": [
+      { "name": "鮭魚排", "amount": "2片", "note": "約每片150克" },
+      { "name": "味噌", "amount": "2大匙", "note": "" },
+      { "name": "味醂", "amount": "1大匙", "note": "" },
+      { "name": "米酒", "amount": "1大匙", "note": "" },
+      { "name": "糖", "amount": "1茶匙", "note": "" },
+      { "name": "食用油", "amount": "少許", "note": "塗烤盤用" }
+    ],
+    "steps": [
+      "將味噌、味醂、米酒和糖攪拌均勻。",
+      "鮭魚擦乾，均勻抹上味噌醬，冷藏醃約30分鐘。",
+      "烤箱預熱至200°C，烤盤薄薄塗油或鋪烘焙紙。",
+      "將鮭魚放入烤箱烤約12至15分鐘，至魚肉熟透。",
+      "取出稍微放涼後即可食用。"
+    ],
+    "notes": ["烘烤時間會依魚排厚度和烤箱狀況不同而變化。"]
+  },
+  {
+    "slug": "creamy-mushroom-pasta",
+    "name": "奶油蘑菇義大利麵",
+    "category": "義式料理",
+    "tags": ["義大利麵", "蘑菇", "奶油"],
+    "image": "images/creamy-mushroom-pasta.png",
+    "description": "蘑菇以奶油炒香，再加入鮮奶油與起司製成濃郁醬汁。",
+    "servings": "2人份",
+    "prepTime": "10分鐘",
+    "cookTime": "20分鐘",
+    "ingredients": [
+      { "name": "義大利麵", "amount": "180克", "note": "" },
+      { "name": "蘑菇", "amount": "150克", "note": "切片" },
+      { "name": "鮮奶油", "amount": "150毫升", "note": "" },
+      { "name": "奶油", "amount": "20克", "note": "" },
+      { "name": "蒜頭", "amount": "2瓣", "note": "切末" },
+      { "name": "帕瑪森起司", "amount": "20克", "note": "刨碎" },
+      { "name": "鹽", "amount": "適量", "note": "" },
+      { "name": "黑胡椒", "amount": "適量", "note": "" }
+    ],
+    "steps": [
+      "煮一鍋水，加入少許鹽，依包裝時間煮熟義大利麵。",
+      "平底鍋融化奶油，加入蒜末炒香。",
+      "加入蘑菇片炒至變軟並略微上色。",
+      "倒入鮮奶油，小火煮至微微濃稠。",
+      "加入瀝乾的義大利麵和帕瑪森起司拌勻。",
+      "以鹽和黑胡椒調味後即可盛盤。"
+    ],
+    "notes": ["可保留少量煮麵水，醬汁太濃時加入調整濃度。"]
+  },
+  {
+    "slug": "french-toast",
+    "name": "法式吐司",
+    "category": "早餐與點心",
+    "tags": ["吐司", "早餐", "甜點"],
+    "image": "images/french-toast.png",
+    "description": "吐司浸入蛋奶液後煎至金黃，外層微酥、內裡柔軟。",
+    "servings": "2人份",
+    "prepTime": "5分鐘",
+    "cookTime": "10分鐘",
+    "ingredients": [
+      { "name": "厚片吐司", "amount": "2片", "note": "" },
+      { "name": "雞蛋", "amount": "2顆", "note": "" },
+      { "name": "牛奶", "amount": "100毫升", "note": "" },
+      { "name": "砂糖", "amount": "1大匙", "note": "" },
+      { "name": "奶油", "amount": "15克", "note": "" },
+      { "name": "蜂蜜", "amount": "適量", "note": "上桌時淋用" }
+    ],
+    "steps": [
+      "將雞蛋、牛奶和砂糖攪拌均勻成蛋奶液。",
+      "吐司兩面浸入蛋奶液，讓表面充分吸收。",
+      "平底鍋以小火融化奶油，放入吐司慢煎。",
+      "兩面煎至金黃色、中心熟熱後盛盤。",
+      "依喜好淋上蜂蜜即可。"
+    ],
+    "notes": ["使用厚片吐司並以小火慢煎，較容易讓中心熟透。"]
+  }
+]
